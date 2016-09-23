@@ -1,3 +1,4 @@
+
 # paper-tags-input
 [![Travis](https://img.shields.io/travis/cheonhyangzhang/paper-tags-input.svg?style=flat)](https://travis-ci.org/cheonhyangzhang/paper-tags-input) [![Coverage Status](https://coveralls.io/repos/github/cheonhyangzhang/paper-tags-input/badge.svg?branch=master)](https://coveralls.io/github/cheonhyangzhang/paper-tags-input?branch=master)
 
@@ -65,6 +66,3 @@ Then, you can run your tests on _all_ of your local browsers via:
 `wct -p` will keep the browsers alive after test runs (refresh to re-run).
 
 `wct test/some-file.html` will test only the files you specify.
-
-
-
